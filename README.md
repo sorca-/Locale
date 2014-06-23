@@ -1,0 +1,4 @@
+Locale
+======
+
+Test ResourceBundle
